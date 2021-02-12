@@ -1,7 +1,7 @@
 {
-    "project_name": "",
-    "package": "co.tomlee.{{cookiecutter.project_name|lower|replace('-', '')|replace('_', '')}}",
-    "package_dir": "{{cookiecutter.package|replace('.', '/')}}",
+    "project_name": "oba_spec_service",
+    "package": "trial",
+    "package_dir": "dir",
     "version": "0.0.1-SNAPSHOT",
     "java_version": "1.8",
     "version_control": ["git", "none"],
